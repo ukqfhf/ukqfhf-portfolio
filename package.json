@@ -24,6 +24,6 @@
     "postcss-import": "^17.0.1"
   },
   "engines": {
-    "node": ">=20.11.0"
+    "node": ">=26 <27"
   }
 }
